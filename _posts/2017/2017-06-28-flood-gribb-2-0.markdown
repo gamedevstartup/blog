@@ -1,0 +1,21 @@
+---
+layout: "post"
+title: "Flood GRIBB 2.0"
+date: "2017-06-28 21:27"
+---
+TODO: CHANGE DATE!!
+Finally, some months after the soft release of Flood GRIBB, the game is now feature complete and ready for hard release on [iOS](https://itunes.apple.com/app/flood-gribb/id1188730046), [Android](https://play.google.com/store/apps/details?id=com.gribbgames.floodgribb) and [web](https://gribbgames.com/flood/).
+
+![Flood GRIBB gameplay]({{ site.baseurl }}/images/flood-gribb.gif)
+
+This update is by far the biggest until now, featuring in-app purchases, rewarded videos, re-designed UI from the ground up and a new gameplay feature letting the player retry the last board if she looses. In addition, check out the slick new confetti-filled highscore screen!
+
+![Flood GRIBB gameplay]({{ site.baseurl }}/images/screenshot1.png)
+![Flood GRIBB gameplay]({{ site.baseurl }}/images/screenshot2.png)
+
+The in app products and rewarded videos are letting players purchase heart packs or watch an ad to get hearts. When loosing, hearts can be used to retry the last board. This gives the player a second chance when loosing. The introduction of in app purchases and rewarded videos can be regarded as an experiment to see how players respond to being able to purchase second chances. In addition, there is also an in app product that removes ads from the game.
+
+![Flood GRIBB gameplay]({{ site.baseurl }}/images/screenshot3.png)
+![Flood GRIBB gameplay]({{ site.baseurl }}/images/screenshot4.png)
+
+This release also marks the start of a more comprehensive marketing effort. Until now, we have mostly relied on the exposure the web gaming portals are providing. Going forward, we will also reach out to press, blogs and media. Hopefully this will give [Flood GRIBB](https://gribbgames.com/flood/) some more visibility. Exciting times!
