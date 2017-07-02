@@ -1,9 +1,9 @@
 ---
 layout: "post"
 title: "Flood GRIBB 2.0"
-date: "2017-06-28 21:27"
+date: "2017-07-01 21:27"
 ---
-TODO: CHANGE DATE!!
+
 Finally, some months after the soft release of Flood GRIBB, the game is now feature complete and ready for hard release on [iOS](https://itunes.apple.com/app/flood-gribb/id1188730046), [Android](https://play.google.com/store/apps/details?id=com.gribbgames.floodgribb) and [web](https://gribbgames.com/flood/).
 
 ![Flood GRIBB gameplay]({{ site.baseurl }}/images/flood-gribb.gif)
